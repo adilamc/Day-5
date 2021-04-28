@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 5\Day 5\bin\Debug\Day 5.exe.config
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 5\Day 5\bin\Debug\Day 5.exe
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 5\Day 5\bin\Debug\Day 5.pdb
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 5\Day 5\obj\Debug\Day 5.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 5\Day 5\obj\Debug\Day 5.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 5\Day 5\obj\Debug\Day 5.exe
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 5\Day 5\obj\Debug\Day 5.pdb
